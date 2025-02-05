@@ -1,11 +1,11 @@
 ---
-name: "\U0001F4C4 Algorithms Issue Templete"
-about: 알고리즘 문제 업데이트를 위한 템플릿
-title: "[YYMMDD] 사이트 - 제목"
+name: "기능 제안"
+about: 기능이 필요할 때
+title: "[YYMMDD] 기능 요약"
 ---
 
-### 문제 개요
+## 기능 요약
 
-- 사이트 : SW Expert Academy / Baekjoon / CodeTree / Programmers
-- 제목 : 
-- 링크 :
+## 기능 설명
+
+## 레퍼런스
